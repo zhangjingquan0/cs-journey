@@ -6,13 +6,8 @@ int main()
     c=a;
     a=b;
     b=c;
-
-
-
-
-
-
-
+    printf("a=%d b=%d\n", a, b);
+    return 0;
 }
 
 
